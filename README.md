@@ -38,3 +38,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naxim-khan&" alt="naxim-khan" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naxim-khan&show_icons=true&locale=en&layout=compact" alt="naxim-khan" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naxim-khan" alt="naxim-khan" /></a></p>
+
+<!-- snake game path -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
