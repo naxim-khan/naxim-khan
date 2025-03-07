@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h3>Hi 👋, </h3> <br>
+<h3>Hi 👋, </h3> 
 <h1>I'm Nazeem Khan</h1>
 <p>A Passionate Full Stack Developer  | AI Enthusiast | Next.js & MERN Expert</p>
 
