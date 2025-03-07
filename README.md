@@ -33,7 +33,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- tophies -->
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naxim-khan" alt="naxim-khan" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naxim-khan" alt="naxim-khan" /></a></p> -->
 
 <!-- snake game path -->
 <picture>
